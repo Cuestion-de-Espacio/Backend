@@ -1,0 +1,68 @@
+[
+    {
+        "id": 0,
+        "nombre": "Endolitia",
+        "beneficios":"+6 de población en condiciones con terreno sólido",
+        "description":"Un endolito es un organismo que vive dentro de una roca, coral, exoesqueleto, o en los poros entre los granos minerales de una roca."
+    },
+    {
+        "id": 1,
+        "nombre":"Oligótrofia",
+        "beneficios":"En condiciones de bajos nutrientes, no puede perder población",
+        "description":"Un oligótrofo es un organismo que puede vivir en un ambiente que ofrece niveles muy bajos de nutrientes ."
+    },
+    {
+        "id": 2,
+        "nombre":"Copiotrofia",
+        "beneficios":"+1 de poder al final de cada turno. En condiciones de bajos nutrientes, pierde el doble de población por turno",
+        "description":"Un copiotrofo es un organismo que se encuentra en ambientes ricos en nutrientes, particularmente carbono. Son lo opuesto a los oligótrofos, que sobreviven en concentraciones de carbono mucho más bajas."
+    },
+    {
+        "id": 3,
+        "nombre":"Radiorresistencia",
+        "beneficios":"Inmune a los efectos de la radiación",
+        "description":"La radiorresistencia es la capacidad de ciertos organismos de sobrevivir en ecosistemas con niveles muy altos de radiaciones ionizantes."
+    },
+    {
+        "id": 4,
+        "nombre":"Radiófilia",
+        "beneficios":"Gana 1 de población por turno bajo radiación",
+        "description":"La radiofilia es la capacidad de unos pocos organismos de prosperar bajo niveles muy altos de radiación"
+    },
+    {
+        "id": 5,
+        "nombre":"Sapiencia",
+        "beneficios":"Roba una carta extra al inicio de tu turno",
+        "description":"La sabiduría o experiencia es un rasgo que se desarrolla con la aplicación de la inteligencia en la experiencia propia"
+    },
+    {
+        "id": 6,
+        "nombre":"Ser mecánico",
+        "beneficios":"Inmune a los efectos de la radiación, inafectado por bajos y altos nutrientes. No puede atacar bajo tormenta de arena",
+        "description":"Un ser mecánico no requiere sustento como los seres vivos, aunque dependen de un grupo de instrucciones para cumplir su propósito"
+    },
+    {
+        "id": 7,
+        "nombre":"Agallas",
+        "beneficios":"+3 de población  mientras no haya una tormenta de arena",
+        "description":"Las branquias o agallas son los órganos respiratorios de numerosos animales acuáticos, con los cuáles atrapan el oxígeno que se encuentra disuelto en el agua"
+    },
+    {
+        "id": 8,
+        "nombre":"Extremidades prensiles",
+        "beneficios":"+1 acción por turno",
+        "description":"Extremidades con capacidad de sujetar resultan extremadamente útiles en cualquier ámbito, especialmente en la exploración espacial."
+    },
+    {
+        "id": 9,
+        "nombre":"Cryptobiosis",
+        "beneficios":"Puede saltar un turno e ignorar los ataques y condiciones actuales",
+        "description":"La criptobiosis es un estado de inactividad extrema en respuesta a condiciones ambientales adversas. En el estado criptobiótico, todos los procesos metabólicos se detienen, impidiendo la reproducción, el desarrollo y la reparación. En la criptobiosis, un organismo puede vivir casi indefinidamente mientras espera que las condiciones ambientales mejoren."
+    },
+    {
+        "id": 10,
+        "nombre":"Gravitropismo",
+        "beneficios":"Resiste altas gravedades",
+        "description":"El gravitropismo es un proceso coordinado de crecimiento diferencial de una planta en respuesta a la atracción de la gravedad."
+    }
+]
