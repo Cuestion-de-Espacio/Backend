@@ -3,6 +3,7 @@ const app = express()
 const fs = require("fs");
 const port = 3000
 
+
 app.get('/', (req, res) => {
   fs.readFile('cartas.json', (err, data) => {
     if (err) throw err;
@@ -11,6 +12,4 @@ app.get('/', (req, res) => {
 });
 })
 
-app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`)
-})
+app.listen(process.env.PORT || 3000);
